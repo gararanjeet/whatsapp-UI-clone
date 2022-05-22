@@ -1,0 +1,10 @@
+.chatArea {
+  margin-top: 5em;
+  /* padding-top: 1em; */
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.chatArea::-webkit-scrollbar {
+  width: 10px;
+  color: white;
+}

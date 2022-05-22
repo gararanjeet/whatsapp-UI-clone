@@ -1,0 +1,11 @@
+.screen {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background-color: var(--background-nav);
+}
+
+.fixed-position {
+  position: fixed;
+  width: inherit;
+}

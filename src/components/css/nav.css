@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-size: 0.9em;
+  padding-right: 0.5em;
+  color: var(--font-color);
+  background-color: var(--background-nav);
+}
+
+.nav h1 {
+  font-size: 0.9em;
+  padding-left: 0.4em;
+  margin-right: auto;
+}
+
+.nav .item {
+  padding-left: 1em;
+}
