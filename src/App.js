@@ -3,9 +3,9 @@ import "./App.css";
 import Mobile from "./components/Mobile";
 
 function App() {
-  useEffect(() => {
-    document.title = "Whatsapp Clone";
-  });
+  // useEffect(() => {
+  //   document.title = "Whatsapp Clone";
+  // });
   return (
     <div className="App">
       <Mobile />
